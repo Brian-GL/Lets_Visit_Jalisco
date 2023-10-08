@@ -1,0 +1,21 @@
+C:\Users\qwert\Documents\SharpDevelop Projects\Proyecto_Algoritmia\Proyecto_Algoritmia\bin\Debug\Proyecto_Algoritmia.exe.config
+C:\Users\qwert\Documents\SharpDevelop Projects\Proyecto_Algoritmia\Proyecto_Algoritmia\bin\Debug\Proyecto_Algoritmia.exe
+C:\Users\qwert\Documents\SharpDevelop Projects\Proyecto_Algoritmia\Proyecto_Algoritmia\bin\Debug\Proyecto_Algoritmia.pdb
+C:\Users\qwert\Documents\SharpDevelop Projects\Proyecto_Algoritmia\Proyecto_Algoritmia\obj\Debug\Proyecto_Algoritmia.csprojResolveAssemblyReference.cache
+C:\Users\qwert\Documents\SharpDevelop Projects\Proyecto_Algoritmia\Proyecto_Algoritmia\obj\Debug\Proyecto_Algoritmia.csproj.GenerateResource.Cache
+C:\Users\qwert\Documents\SharpDevelop Projects\Proyecto_Algoritmia\Proyecto_Algoritmia\obj\Debug\Proyecto_Algoritmia.exe
+C:\Users\qwert\Documents\SharpDevelop Projects\Proyecto_Algoritmia\Proyecto_Algoritmia\obj\Debug\Proyecto_Algoritmia.pdb
+C:\Users\qwert\Documents\SharpDevelop Projects\Proyecto_Algoritmia\Proyecto_Algoritmia\obj\Debug\Proyecto_Algoritmia.MainForm.resources
+C:\Users\qwert\Documents\SharpDevelop Projects\Proyecto_Algoritmia\Proyecto_Algoritmia\obj\Debug\Proyecto_Algoritmia.RecorridoProfundidad.resources
+C:\Users\qwert\Documents\SharpDevelop Projects\Proyecto_Algoritmia\Proyecto_Algoritmia\obj\Debug\Proyecto_Algoritmia.Resultados_Recorridos.resources
+D:\INCO\Ingenieria En Computación\Algoritmia\Proyecto_Algoritmia\Proyecto_Algoritmia\bin\Debug\Proyecto_Algoritmia.exe.config
+D:\INCO\Ingenieria En Computación\Algoritmia\Proyecto_Algoritmia\Proyecto_Algoritmia\bin\Debug\Proyecto_Algoritmia.exe
+D:\INCO\Ingenieria En Computación\Algoritmia\Proyecto_Algoritmia\Proyecto_Algoritmia\bin\Debug\Proyecto_Algoritmia.pdb
+D:\INCO\Ingenieria En Computación\Algoritmia\Proyecto_Algoritmia\Proyecto_Algoritmia\obj\Debug\Proyecto_Algoritmia.csproj.AssemblyReference.cache
+D:\INCO\Ingenieria En Computación\Algoritmia\Proyecto_Algoritmia\Proyecto_Algoritmia\obj\Debug\Proyecto_Algoritmia.MainForm.resources
+D:\INCO\Ingenieria En Computación\Algoritmia\Proyecto_Algoritmia\Proyecto_Algoritmia\obj\Debug\Proyecto_Algoritmia.RecorridoProfundidad.resources
+D:\INCO\Ingenieria En Computación\Algoritmia\Proyecto_Algoritmia\Proyecto_Algoritmia\obj\Debug\Proyecto_Algoritmia.Resultados_Recorridos.resources
+D:\INCO\Ingenieria En Computación\Algoritmia\Proyecto_Algoritmia\Proyecto_Algoritmia\obj\Debug\Proyecto_Algoritmia.csproj.GenerateResource.cache
+D:\INCO\Ingenieria En Computación\Algoritmia\Proyecto_Algoritmia\Proyecto_Algoritmia\obj\Debug\Proyecto_Algoritmia.csproj.CoreCompileInputs.cache
+D:\INCO\Ingenieria En Computación\Algoritmia\Proyecto_Algoritmia\Proyecto_Algoritmia\obj\Debug\Proyecto_Algoritmia.exe
+D:\INCO\Ingenieria En Computación\Algoritmia\Proyecto_Algoritmia\Proyecto_Algoritmia\obj\Debug\Proyecto_Algoritmia.pdb
